@@ -1,0 +1,27 @@
+.content {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 150px;
+}
+
+button {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 1rem 2rem;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 18px;
+    margin: 0.1rem 0.2rem;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: orange;
+    color: black;
+  }
+  
